@@ -59,3 +59,5 @@ The match continues round by round until either the player or computer reaches 5
    ```bash
    git clone https://github.com/bocaletto-luca/Rock-Paper-Scissors.git
 2. Start webserver example Apache2 and open index.html in Web Browser
+
+#### License: GPLv3
